@@ -6,18 +6,24 @@ We are excited you are interested in putting your name in the hat for an interns
 
 Please complete the following .....
 
+---
+
 ## Personality Test
 
 [Take the Classical Enneagram Test.](https://www.eclecticenergies.com/enneagram/test)
 
 Please answer all the questions as honestly as you can, and Let us know the number the test results reveal. There are no bad personalities, and this will help us understand you better.
 
+---
+
 ## Communication Skills
 
 Please craft a request email for 1 of the following needs.
 
 - You need to request the FTP information from a client to access their code, knowing the assistant you are in contact with may not be sure what the information that you are requesting is.
-- You are needing more page content for a marketing site project, the project manager is out of town and you need to contact the client to get the page done by the deadline. You need both photos and a couple of paragraphs for the “About Us” page.
+- You are needing more page content for a marketing site project, the project manager is out of town and you need to contact the client to get the page done by the deadline. You need both photos and a couple of paragraphs for the “About Us” page.\
+
+---
 
 ## Code Test
 
@@ -52,3 +58,4 @@ At the bottom of the mock up there is a Javascript puzzle. Please use the follow
 - Jordan Heigle
 - Elke Fallas
 
+---
