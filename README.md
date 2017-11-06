@@ -8,7 +8,7 @@ Please complete the following .....
 
 ## Personality Test
 
-[Take the Classical enneagram test.]('https://www.eclecticenergies.com/enneagram/test')
+[Take the Classical enneagram test.](https://www.eclecticenergies.com/enneagram/test)
 
 Please answer all the questions as honestly as you can, and Let us know the number the test results reveal. There are no bad personalities, and this will help us understand you better.
 
