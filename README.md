@@ -23,20 +23,19 @@ Feel free to use any libraries / frameworks to pull this off. We would also like
 
 At the bottom of the mock up there is a Javascript puzzle. Please use the following data in your JS declared objects.
 
-Object 1
-
+#### Object 1
 - Matt Johnson
 - Bart Paden
 - Ryan Doss
 - Michael Spangler
 
-Object 2
+#### Object 2
 - Matt Johnson
 - Bart Paden
 - Jordan Heigle
 - Elke Fallas
 
-Intended Result
+#### Result Object
 - Matt Johnson
 - Bart Paden
 - Ryan Doss
