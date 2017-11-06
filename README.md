@@ -6,13 +6,10 @@ We are excited you are interested in putting your name in the hat for an interns
 
 Please complete the following .....
 
-## Step 1
 ### Personality Test
 
-## Step 2
 ### Communication Skills
 
-## Step 3
 ### Code Test
 
 Please review the mockup in the mockup folder to code out using the following languages
@@ -47,6 +44,5 @@ Intended Result
 - Jordan Heigle
 - Elke Fallas
 
-## Step 4
 ### Mental Puzzle
 
