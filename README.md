@@ -4,7 +4,7 @@ We are excited you are interested in putting your name in the hat for an interns
 
 ## Instructions
 
-Please complete the following steps to the best of your ability. All applications should be submitted once with all pieces of the application in a zip file. Please reference the folder/zip firstname_lastname_MM-YYYY as an example of the way in which we want this submitted. Please send the resulting zip file in an email to mj@buildmidwestern.com. In that folder is a readme file that you should use to record your results and information on each of the following steps.
+Please complete the following steps to the best of your ability. All applications should be submitted once with all pieces of the application in a zip file. Please reference the folder/zip firstname_lastname_MM-YYYY as an example of the way in which we want this submitted. Please send the resulting zip file in an email to person you've been in contact with. In that folder is a readme file that you should use to record your results and information on each of the following steps.
 
 
 ---
@@ -22,7 +22,7 @@ Please answer all the questions as honestly as you can, and let us know the numb
 Please craft a request email for 1 of the following needs.
 
 - You need to request the FTP information from a client to access their code, knowing the assistant you are in contact with may not be sure what the information that you are requesting is.
-- You are needing more page content for a marketing site project, the project manager is out of town and you need to contact the client to get the page done by the deadline. You need both photos and a couple of paragraphs for the “About Us” page.\
+- You are needing more page content for a marketing site project, the project manager is out of town and you need to contact the client to get the page done by the deadline. You need both photos and a couple of paragraphs for the “About Us” page.
 
 ---
 
