@@ -4,7 +4,7 @@ We are excited you are interested in putting your name in the hat for an interns
 
 ## Instructions
 
-Please complete the following steps to the best of your ability, and include all pieces in an email to mj@buildmidwestern.com.  All applications should be submitted once with all pieces of the application in a zip file. Please reference the folder/zip firstname_lastname_MM-YYYY as an example of the way in which we want this submitted. In that folder is a readme file that you should use to record your results and information on each of the following steps.
+Please complete the following steps to the best of your abilit. All applications should be submitted once with all pieces of the application in a zip file. Please reference the folder/zip firstname_lastname_MM-YYYY as an example of the way in which we want this submitted. Please send the resulting zip file in an email to mj@buildmidwestern.com. In that folder is a readme file that you should use to record your results and information on each of the following steps.
 
 
 ---
@@ -13,7 +13,7 @@ Please complete the following steps to the best of your ability, and include all
 
 [Take the Classical Enneagram Test.](https://www.eclecticenergies.com/enneagram/test)
 
-Please answer all the questions as honestly as you can, and Let us know the number the test results reveal. There are no bad personalities, and this will help us understand you better.
+Please answer all the questions as honestly as you can, and let us know the number the test results reveal. There are no bad personalities, and this will help us understand you better.
 
 ---
 
