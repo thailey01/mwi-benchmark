@@ -4,7 +4,7 @@ We are excited you are interested in putting your name in the hat for an interns
 
 ## Instructions
 
-Please complete the following steps to the best of your abilit. All applications should be submitted once with all pieces of the application in a zip file. Please reference the folder/zip firstname_lastname_MM-YYYY as an example of the way in which we want this submitted. Please send the resulting zip file in an email to mj@buildmidwestern.com. In that folder is a readme file that you should use to record your results and information on each of the following steps.
+Please complete the following steps to the best of your ability. All applications should be submitted once with all pieces of the application in a zip file. Please reference the folder/zip firstname_lastname_MM-YYYY as an example of the way in which we want this submitted. Please send the resulting zip file in an email to mj@buildmidwestern.com. In that folder is a readme file that you should use to record your results and information on each of the following steps.
 
 
 ---
