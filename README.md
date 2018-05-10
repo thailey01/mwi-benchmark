@@ -48,7 +48,7 @@ At the bottom of the mock up there is a Javascript puzzle. Please use the follow
 - Matt Johnson
 - Bart Paden
 - Jordan Heigle
-- Elke Fallas
+- Tyler Viles
 
 #### Result Object
 - Matt Johnson
@@ -56,6 +56,6 @@ At the bottom of the mock up there is a Javascript puzzle. Please use the follow
 - Ryan Doss
 - Michael Spangler
 - Jordan Heigle
-- Elke Fallas
+- Tyler Viles
 
 ---
