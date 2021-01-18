@@ -42,7 +42,7 @@ At the bottom of the mock up there is a Javascript puzzle. Please use the follow
 - Matt Johnson
 - Bart Paden
 - Ryan Doss
-- Miguel Solano
+- Jared Malcolm
 
 #### Object 2
 - Matt Johnson
@@ -54,7 +54,7 @@ At the bottom of the mock up there is a Javascript puzzle. Please use the follow
 - Matt Johnson
 - Bart Paden
 - Ryan Doss
-- Miguel Solano
+- Jared Malcolm
 - Jordan Heigle
 - Tyler Viles
 
