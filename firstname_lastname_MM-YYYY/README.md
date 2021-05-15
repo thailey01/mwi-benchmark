@@ -34,5 +34,6 @@ Any details you'd like to mention about your code test.
 
 To run the index.php file, I simply setup php-server in atom.io to test, this file simple displays errors if any or confirms validation.
 I hope I have completed all tasks satisfactorily!
+Thank you for considering me for your team!
 
 ---
