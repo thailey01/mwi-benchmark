@@ -39,8 +39,14 @@ button.submit{
   padding-left: 20px;
   padding-right: 20px;
 }
-.bottom{
+.puzzle{
   margin-bottom: 50px;
+}
+.bottom{
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 10px;
 }
 
 @media (max-width: 768px){
