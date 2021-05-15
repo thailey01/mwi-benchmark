@@ -1,1 +1,113 @@
-<h1>Code Test</h1>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>MWI-BENCHMARK</title>
+    <meta name="viewport" content="width=device-width, intitial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/basic.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="../js/index.js"></script>
+  </head>
+  <body>
+    <div class="container-fluid text-center logo">
+      <img src="../img/mwi-logo-horizontal.png" alt="logo" class="img-fluid" style="width:50%">
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h1 class="heading-one"><u>HEADING ONE</u></h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 article">
+          <div class="bg-gray random-gray-block"></div>
+          <small>
+            <h2>Heading 2</h2>
+            <p>This is a paragraph text that is meant to flex and wrap to a new line based on the number of characters in this container. Please make sure this is looking pretty based on the small amount of characters this is taking up</p>
+            <button type="button" class="btn btn-dark">Read More</button>
+          </small>
+        </div>
+        <div class="col-md-4 article">
+          <div class="bg-gray random-gray-block"></div>
+          <small>
+            <h2>Heading 2</h2>
+            <p>This is a paragraph text that is meant to flex and wrap to a new line based on the number of characters in this container. Please make sure this is looking pretty based on the small amount of characters this is taking up</p>
+            <button type="button" class="btn btn-dark">Read More</button>
+          </small>
+        </div>
+        <div class="col-md-4 article">
+          <div class="bg-gray random-gray-block"></div>
+          <small>
+            <h2>Heading 2</h2>
+            <p>This is a paragraph text that is meant to flex and wrap to a new line based on the number of characters in this container. Please make sure this is looking pretty based on the small amount of characters this is taking up</p>
+            <button type="button" class="btn btn-dark">Read More</button>
+          </small>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid bg-gray">
+      <div class="container contact-area">
+        <div class="row text-center">
+          <h2>Contact</h2>
+        </div>
+        <form class="needs-validation" name="messageForm" action="./index.php"
+          method="post" onsubmit="return validateForm();">
+          <div class="form-group">
+            <div class="row">
+              <div class="col-md-6">
+                <label for="email">Email</label>
+              </div>
+              <div class="col-md-6">
+                <div class="text-danger err-message" id="email-err"></div>
+              </div>
+            </div>
+            <input name="email" type="email" class="form-control" placeholder="">
+          </div>
+          <div class="form-group">
+            <div class="row">
+              <div class="col-md-6">
+                <label for="subject">Subject</label>
+              </div>
+              <div class="col-md-6">
+                <div class="text-danger err-message" id="subject-err"></div>
+              </div>
+            </div>
+            <input name="subject" type="text" class="form-control" placeholder="">
+          </div>
+          <div class="form-group">
+            <div class="row">
+              <div class="col-md-6">
+              <label for="message">Message</label>
+              </div>
+              <div class="col-md-6">
+                <div class="text-danger err-message" id="message-err"></div>
+              </div>
+            </div>
+            <textarea name="message" cols="30" rows="5" class="form-control"></textarea>
+          </div>
+          <button type="submit" class="btn btn-dark submit">Submit</button>
+        </form>
+      </div>
+    </div>
+    <div class="container bottom">
+      <div class="row">
+        <div class="col-lg-12">
+          <h1 class="heading-one"><u>HEADING ONE</u></h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 article">
+            <p>Remove the duplicates in 2 Javascript objects and output the list of distinct names in an unordered list when this <a href="" id="list-generator">link is clicked</a>,
+              if the operation has been completed already notify the user that this has already been done.</p>
+        </div>
+      </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <ul id="object-list"></ul>
+          </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+  </body>
+</html>
