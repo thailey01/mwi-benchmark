@@ -21,7 +21,7 @@ Hello [Client Name],
 I am sorry to bother you but it appears we are in need a few more things for the completion of our site.
 It would really help us if we could get a few photographs to display what your company is all about (this
 could be pictures of your staff, projects, executives, etc.). Additionally, most companies have a small 'About Us'
-entry that let's potential clients know who you are and why they should chose you. This could be something like a
+entry that lets potential clients know who you are and why they should chose you. This could be something like a
 mission statement, history of your business and plans for future business. Again, we appreciate your cooperation
 and look forward to your response.
 
